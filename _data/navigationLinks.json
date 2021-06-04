@@ -1,0 +1,5 @@
+[
+    {"text": "Home", "url": "/content"},
+    {"text": "Tides", "url": "/tides"},
+    {"text": "Weather", "url": "/weather"}
+]
